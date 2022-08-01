@@ -1,0 +1,7 @@
+li{
+    border: #282c34 1px solid;
+    text-align: left;
+    list-style: none;
+    width: 300px;
+    margin: 10px auto;
+}
